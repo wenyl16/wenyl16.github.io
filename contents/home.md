@@ -6,14 +6,15 @@ Chinese Homepage at [here](https://electric.ncepu.edu.cn/szdw/xyjj6/spdxtyjs/7bc
 <code>wenyl@ncepu.edu.cn</code> 
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+​**Tsinghua University**, Ph.D. in Electrical Engineering (Sep 2020 – Dec 2024)  
+• Supervisor: Prof. Dr. Zechun Hu  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+​**ETH Zurich**, Visiting Ph.D. Student (Mar 2023 – Mar 2024)  
+• Power Systems Laboratory  
+• Supervisor: Prof. Dr. Gabriela Hug  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+​**Tsinghua University**, Bachelor in Electrical Engineering (Sep 2016 – Jun 2020)  
+• Department of Electrical Engineering  
 
 #### Research Interests  
 XX, XX, XX, XX.
