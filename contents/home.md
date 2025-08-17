@@ -21,3 +21,4 @@ Chinese Homepage at [here](https://electric.ncepu.edu.cn/szdw/xyjj6/spdxtyjs/7bc
 #### Research Interests  
 - Optimization and control of distributed energy resources
 - Applications of machine learning in power systems
+- Dimensionality Reduction of Complex Models in Optimization and Control
