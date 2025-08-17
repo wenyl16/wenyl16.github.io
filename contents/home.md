@@ -17,4 +17,5 @@ Chinese Homepage at [here](https://electric.ncepu.edu.cn/szdw/xyjj6/spdxtyjs/7bc
 • Department of Electrical Engineering  
 
 #### Research Interests  
-Optimization and control of distributed energy resources; Applications of machine learning in power systems; Electro-hydrogen coupling
+- Optimization and control of distributed energy resources
+- Applications of machine learning in power systems
