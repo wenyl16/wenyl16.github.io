@@ -13,7 +13,8 @@
 
 - ​**Y. Wen**, Y. Guo, Z. Hu and G. Hug, "*Stochastic Modeling for the Aggregated Flexibility of Distributed Energy Resources*," in ​**Electric Power Systems Research**, vol. 234, pp. 110628, doi: 10.1016/j.epsr.2024.110628. 
  
-- ​**文艺林**, 胡泽春, 宁剑, 刘礼恺. "*基于分布鲁棒机会约束的充电运营商参与调峰市场投标策略*," in ​**电力系统自动化**, vol. 46, no. 07, pp. 23-32, 2022.
+- ​**Y. Wen**, Z. Hu, J. Ning, and L. Liu, "*Optimal Bidding Strategy of Charging Operator Participating in Power Balancing Market based on Distributionally Robust Chance Constraint*," ​**Automation of Electrical Power Systems**, vol. 46, no. 7, pp. 23-32, 2022. (in Chinese)
+
 
 - ​**Y. Wen**, Z. Hu. "*Coordinated charging strategy for electric vehicle charging station based on demand prediction*," in ​**2020 IEEE 4th Conference on Energy Internet and Energy System Integration (EI2)​**, pp. 659-664, 2020.
 
