@@ -2,7 +2,7 @@
 
 - Outstanding Doctoral Dissertation, Tsinghua University, Beijing, China, 2025
 
-- Best Research Award of IEEE PES Grid Edge Technologies PHD Dissertation Challenge, IEEE Power and Energy Society, San Diego, US, 2025. 
+- Best Research Award of IEEE PES Grid Edge Technologies PHD Dissertation Challenge (2 winners globally every 2 years), IEEE Power and Energy Society, San Diego, US, 2025. 
 
 - Doctoral Graduate Excellence Award of Beijing, Beijing Municipal Education Commission, Beijing, China, 2024
 
