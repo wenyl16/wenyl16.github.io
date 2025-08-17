@@ -7,11 +7,11 @@ Chinese Homepage at [here](https://electric.ncepu.edu.cn/szdw/xyjj6/spdxtyjs/7bc
 
 #### Education  
 ​**Tsinghua University**, Ph.D. in Electrical Engineering (Sep 2020 – Dec 2024)  
-• Supervisor: Prof. Dr. Zechun Hu  
+• Supervisor: Prof. Zechun Hu  
 
 ​**ETH Zurich**, Visiting Ph.D. Student (Mar 2023 – Mar 2024)  
 • Power Systems Laboratory  
-• Supervisor: Prof. Dr. Gabriela Hug  
+• Supervisor: Prof. Gabriela Hug  
 
 ​**Tsinghua University**, Bachelor in Electrical Engineering (Sep 2016 – Jun 2020)  
 • Department of Electrical Engineering  
