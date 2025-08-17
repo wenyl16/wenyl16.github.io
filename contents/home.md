@@ -1,10 +1,9 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+<!-- [![wenyl16](https://img.shields.io/badge/wenyl16-github-blue?logo=github)](https://github.com/wenyl16) -->
 
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
 #### Email  
-<code>wenyl@ncepu.edu.cn</code>  
-<code>XX@XX.XX</code>
+<code>wenyl@ncepu.edu.cn</code> 
 
 #### Education  
 **XX University**, Master of XX (XX – XX)  
