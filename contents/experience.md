@@ -1,5 +1,16 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **Reviews of Journal Article**  
+
+- IEEE Trans. Power Systems
+- IEEE Trans. Smart Grid
+- IEEE Trans. Sustainable Energy
+- IEEE Trans. Energy Markets, Policy, and Regulation
+- IEEE Power Engineering Letters
+- International Journal of Electrical Power and Energy Systems
+- IEEE Systems Journal
+- Energy Conversion and Economics
+- IET smart grid
+- Power System Technology (《电网技术》)
+
 
 Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
 
